@@ -13,6 +13,8 @@
         methods: {
             onclick: function () {
                 this.message = "Clicked!"
+                this.message = "Changed!"
+                this.message = "Practice２"
             }
         }
 
