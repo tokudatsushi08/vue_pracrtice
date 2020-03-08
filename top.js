@@ -9,11 +9,6 @@
             languages: [
                 'JavaScript', 'Ruby', 'Phython'
             ]
-        },
-        methods: {
-            onclick: function () {
-                this.message = "Clicked!"
-            }
         }
 
     })
