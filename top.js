@@ -10,5 +10,12 @@
                 'JavaScript', 'Ruby', 'Phython'
             ]
         },
+        methods: {
+            onclick: function () {
+                this.message = "Clicked!"
+                this.message = "Changed!"
+            }
+        }
+
     })
 }
